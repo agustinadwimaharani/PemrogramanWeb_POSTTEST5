@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+
+body{
+    padding: 10px;
+    font-size: 15px;
+    background: f2d6f2rgb(246, 211, 211);
+    color: rgb(96, 82, 82);
+    position: absolute;
+    align-items: center;
+}
+
+h2{
+    color: rgb(246, 207, 246);
+    bottom: 20px;
+    align-items: center;
+    width: 100%;
+}
+
+h3{
+    color: rgb(39, 41, 42);
+    text-align: center;
+}
+
+
+.hasil{
+    font-size: 15px;
+    background: rgb(246, 211, 211);
+    color: rgb(96, 82, 82);
+    position: absolute;
+    padding: auto;
+
+}
